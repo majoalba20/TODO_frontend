@@ -4,6 +4,8 @@
 
 TO DO app with MERN stack.
 
+<img src='src/img/todo.png' alt="" />
+
 <h1>Librerias 📕</h1>
 
 <ul>
