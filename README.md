@@ -16,7 +16,10 @@ TO DO app with MERN stack.
 <h1>Construido con 🔧</h1>
 
 <ul>
+    <li>Mongo DB</li>
+    <li>Express JS</li>
     <li>React js</li>
+    <li>Node Js</li>
     <li>Tailwind CSS</li>
 </ul>
 
